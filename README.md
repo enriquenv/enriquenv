@@ -1,4 +1,4 @@
-### Hi! ¡Hola! Hallo! Salut! Ola! Ciao! Hej! Привет! !שלום Kaixo! 👋
+👋 Hi! ¡Hola! Hallo! Salut! Ola! Ciao! Hej! Привет! !שלום Kaixo! 你好! !مرحبا 👋
 
 <h3 align="left">🔭Tech-Stack:</h3>
 <p align="left">
@@ -23,7 +23,8 @@
 <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
 
 
-[![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=enriquenv)](https://github.com/enriquenv/github-readme-stats)
+
+[![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=enriquenv)]
 
 <!--
 **enriquenv/enriquenv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
